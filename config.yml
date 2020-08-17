@@ -1,0 +1,4 @@
+development: 
+  password: YOUR_PRIVATE_APP_PASSWORD
+  theme_id: YOUR_THEME_ID
+  store: YOUR_SHOPIFY_STORE_URL
